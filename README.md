@@ -1,3 +1,5 @@
+> **Note:** This repository has moved to a repository called **learning-lab**.
+
 ## This repository contains code wiritten on C#.
 
 Main goal is to exercise with different features of C#, libriries, algorithms etc.
